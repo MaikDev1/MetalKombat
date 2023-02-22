@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=BioRhyme+Expanded:wght@700;800&family=Roboto+Mono:wght@100;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=BioRhyme+Expanded:wght@200&family=Roboto+Mono:wght@100;700&display=swap");
+
+body,
+.back {
+  color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.logotop {
+  margin-left: 20px;
+}
+
+h1 {
+  margin-bottom: 40px;
+  margin-top: 0px;
+  text-shadow: 0 10px 20px white;
+  color: white;
+  font-size: 80px;
+  box-shadow: 0 0px 15px rgba(255, 255, 255, 0.952);
+  border-radius: 5px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 538px 266px;
+  gap: 142px;
+  justify-content: space-evenly;
+}
+
+.home {
+  font-weight: 700;
+  padding: 6px 9px;
+  color: rgb(247, 244, 244);
+  text-decoration: none;
+  margin: 40px;
+  font-size: large;
+  border-radius: 5px;
+  background-color: rgba(59, 57, 57, 0.2);
+  box-shadow: 0 5px 30px rgb(250, 247, 247);
+}
+
+.homeposition {
+  flex-wrap: wrap;
+  text-align: right;
+}
+
+.tiltei {
+  margin-left: 64px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  padding: 5px 10px;
+  background-color: rgb(150, 147, 147);
+  box-shadow: 0 10px 80px rgba(102, 96, 96, 0.5);
+  font-weight: 700;
+}
+
+.item1 {
+  margin-left: 25px;
+  width: 180px;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgba(255, 255, 255, 0.2);
+  box-shadow: rgba(250, 250, 250, 0.5) 0px 5px 15px;
+}
+
+.metal {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  background-color: black;
+  padding: 20px;
+}
+
+.back2 {
+  line-height: 2em;
+  color: white;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 10px 90px rgba(248, 245, 245, 0.5);
+}
+
+.item {
+  padding: 86px 14px;
+  background-color: rgb(255, 255, 255, 0.1);
+  box-shadow: 0 10px 80px rgba(255, 255, 255, 0.5);
+}
+
+h3 {
+  background-color: rgb(255, 255, 255, 0.2);
+  box-shadow: 0 10px 80px rgb(0, 0, 0, 0.5);
+}
+
+.a-input {
+  font-weight: bold;
+}
+
+.entrar {
+  margin-left: 5px;
+  text-decoration: none;
+  color: black;
+  font-weight: 800;
+}
+
+.aqui {
+  margin-top: 0;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+}
+
+.pp {
+  padding: 10px;
+  color: white;
+  font-weight: 600;
+  margin-left: 30px;
+}
+
+p {
+  font-weight: bold;
+}
+
+.ft {
+  margin-top: 200px;
+}
+
+h4 {
+  color: white;
+  text-align: center;
+  font-weight: 900;
+  font-family: "BioRhyme Expanded", serif;
+}
+
+footer {
+  margin-top: 80px;
+  background-color: #dcdcdc;
+}
+
+.termo {
+  padding-top: 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.termo1 {
+  font-weight: 800;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  margin: 15px;
+}
+
+.redesocial {
+  text-align: center;
+  margin-bottom: 5px;
+  padding-top: 15px;
+}
+
+.classificacao {
+  padding-top: 40px;
+  background-color: #c0c0c0;
+  text-align: center;
+}
+
+.tiltei:hover {
+  background-color: black;
+}
+
+.home:hover {
+  color: black;
+  background-color: rgb(207, 207, 207);
+}
+
+.entrar:hover {
+  color: white;
+}
+
+.termo1:hover {
+  color: blue;
+}
+
+.img5 {
+  margin-left: 30px;
+}
